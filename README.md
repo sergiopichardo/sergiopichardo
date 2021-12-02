@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a back-end developer passionate about DevOps and the cloud. 
+
 <!--
 **sergiopichardo/sergiopichardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
