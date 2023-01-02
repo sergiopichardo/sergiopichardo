@@ -1,8 +1,15 @@
-### Hi there 👋
+## Hi there, I'm Sergio! 👋
+### I'm a software engineer based in Starkville, Mississippi. 🗺️
 
-I'm a Software Engineer with several years of experience in JavaScript, TypeScript and a variety of frameworks. I have extensive experience with AWS and hold 2 associate-level certifications. I'm also a co-creator of [Armada](https://team-armada.github.io/), an opensource application to configure and deploy containerized development environments. 
+I have several years of experience in JavaScript, TypeScript and a variety of frameworks. I have extensive experience with AWS and hold 2 associate-level certifications. 
 
+I'm also a co-creator of ✨ [Armada](https://team-armada.github.io/) ✨, an open-source application to configure and deploy containerized development environments. 
 
+#### Here's my personal information
+- 🌎 [sergiojpichardo.com](https://sergiojpichardo.com/)
+- ✅ [Resume](https://sergiojpichardo.com/static/files/resume-sergio-pichardo.pdf)
+- 👔 [Linkedin](https://www.linkedin.com/in/sergiopichardo/) 
+- ✉️ [Email](hello@sergiojpichardo.com)
 
 <!--
 **sergiopichardo/sergiopichardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
