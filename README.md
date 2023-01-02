@@ -4,7 +4,12 @@
 ---
 
 ## I'm also a co-creator of ✨ [Armada](https://team-armada.github.io/) ✨ 
-![Armada Architecture](./armada-architecture.png =x200)
+<!-- ![Armada Architecture](./armada-architecture.png =x200) -->
+
+<a href="https://team-armada.github.io/" target="_blank">
+  <img src="./armada-architecture.png" width="" height="300" />
+</a>
+
 Armada is an open-source application to configure and deploy containerized development environments. 
 
 We built Armada using the following technologies: TypeScript, PostgreSQL, VPC, EC2, ELB, ECS, EFC, Cognito, Lambda and the AWS Cloud Development Kit. 
