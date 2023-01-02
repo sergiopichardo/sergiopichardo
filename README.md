@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a back-end developer passionate about DevOps and the cloud. 
+I'm a Software Engineer with several years of experience in JavaScript, TypeScript and a variety of frameworks. I have extensive experience with AWS and hold 2 associate-level certifications. I'm also a co-creator of [Armada](https://team-armada.github.io/), an opensource application to configure and deploy containerized development environments. 
+
+
 
 <!--
 **sergiopichardo/sergiopichardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
