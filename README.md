@@ -15,6 +15,6 @@ We built Armada using the following technologies: TypeScript, PostgreSQL, VPC, E
 
 ### Personal information
 - 🌎 [Website](https://sergiopichardo.com/)
-- ✅ [Resume](https://sergiopichardo.com/static/files/resume-sergio-pichardo.pdf)
+- ✅ [Resume](https://sergiopichardo.com/resume-sergio-pichardo.pdf)
 - 👔 [Linkedin](https://www.linkedin.com/in/sergiopichardo/) 
 - ✉️ [Email](sergiopichardo@proton.me)
