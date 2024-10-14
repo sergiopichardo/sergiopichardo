@@ -1,17 +1,19 @@
-## Hi there, I'm Sergio! 👋
-**I'm a software engineer based in Starkville, Mississippi.** 🗺️ I'm a Software Engineer proficient in JavaScript, TypeScript, Go, Python and a variety of frameworks such as Express, NestJS, Flask, React, Next.js, Mongoose, TypeORM, and Prisma. 
 
+## Hi, I'm Sergio 👋. I'm a full-stack software engineer who's passionate about solving problems with code.
 
-### I'm also a co-creator of ✨ [Armada](https://team-armada.github.io/) ✨ 
+Currently, I'm excited to be part of the team at Immigrant Buddies, where we're building a platform that connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involves backend development using AWS serverless technologies.
 
+Previously, I had the pleasure of collaborating with an amazing remote team of 4 developers on a cloud infrastructure-based, open-source application called Armada. Armada was created to solve the problem many computer science teachers face: configuration overload and dependency management. Armada, makes it easy to configure and deploy development environments to the cloud at scale using Docker and Amazon Web Services. You can read our case study here: https://team-armada.github.io/case-study.html
 
-<a href="https://team-armada.github.io/" target="_blank">
-  <img src="./armada-architecture.png" width="" height="300" />
-</a>
+Some of my technical skills include: 
+- Frontend: React, Next.js, Zustand, TailwindCSS, ShadCN, Radix-UI Primitives
+- Backend: Node.js/TypeScript, Python, Go, PostgreSQL, MongoDB. 
+- Infrastructure: AWS CDK, Terraform, IAM, S3, CloudFront, Lambda, AppSync, API Gateway, DynamoDB, RDS
+- Tooling: Jira, Confluence, Git, GitHub, jest-cucumber, Cypress, Playwright, technical diagramming, Bash, Linux
 
-Armada is an open-source application to configure and deploy containerized development environments. 
+Whether it's coding, problem-solving, or just geeking out over the latest tech trends, I'm always up for a good conversation.
 
-We built Armada using the following technologies: TypeScript, PostgreSQL, VPC, EC2, ELB, ECS, EFC, Cognito, Lambda and the AWS Cloud Development Kit. 
+Let's connect, chat, or explore how we can collaborate!
 
 ### Personal information
 - 🌎 [Website](https://sergiopichardo.com/)
