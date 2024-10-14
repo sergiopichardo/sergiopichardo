@@ -15,7 +15,7 @@ Whether it's coding, problem-solving, or just geeking out over the latest tech t
 
 Let's connect, chat, or explore how we can collaborate!
 
-### Personal information
+### Personal Information
 - 🌎 [Website](https://sergiopichardo.com/)
 - ✅ [Resume](https://sergiopichardo.com/resume-sergio-pichardo.pdf)
 - 👔 [Linkedin](https://www.linkedin.com/in/sergiopichardo/) 
