@@ -5,6 +5,8 @@ Currently, I'm excited to be part of the team at Immigrant Buddies, where we're 
 
 Previously, I had the pleasure of collaborating with an amazing remote team of 4 developers on a cloud infrastructure-based, open-source application called Armada. Armada was created to solve the problem many computer science teachers face: configuration overload and dependency management. Armada, makes it easy to configure and deploy development environments to the cloud at scale using Docker and Amazon Web Services. You can read our case study here: https://team-armada.github.io/case-study.html
 
+I enjoy learning new skills in my spare time through hands-on practice. Currently, I'm working on Verbo—an application designed to help users learn new languages by translating text into any of the 72 supported languages. In addition to translations, Verbo offers audio pronunciations and practical examples to demonstrate how words and phrases are used in real-life conversations. To follow my progress, visit the project page here https://sergiopichardo.com/projects/verbo, and you can also explore the code repo in here https://github.com/sergiopichardo/verbo. 
+
 Some of my technical skills include: 
 - Frontend: React, Next.js, Zustand, TailwindCSS, ShadCN, Radix-UI Primitives
 - Backend: Node.js/TypeScript, Python, Go, PostgreSQL, MongoDB. 
