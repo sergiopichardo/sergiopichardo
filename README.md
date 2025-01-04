@@ -3,18 +3,20 @@
 
 Currently, I'm thrilled to be part of the team at Last Call Media, where I work on cloud-based solutions, leveraging tools like Terraform and Amazon ECS to build scalable and reliable infrastructure. 
 
-Previously, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers to help them adjust to life in the USA. My focus was on backend development using AWS serverless technologies, enabling a scalable and cost-efficient foundation.
+Previoulsy, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involved backend development using AWS serverless technologies.
 
-I also collaborated with a remote team of developers on Armada, an open-source application designed to simplify the configuration and deployment of development environments for computer science educators. You can learn more about this project in our case study: Armada Case Study.
+Previously, I had the pleasure of collaborating with an amazing remote team of 4 developers on a cloud infrastructure-based, open-source application called Armada. Armada was created to solve the problem many computer science teachers face: configuration overload and dependency management. Armada, makes it easy to configure and deploy development environments to the cloud at scale using Docker and Amazon Web Services. You can read our case study here: https://team-armada.github.io/case-study.html, and here's my contribution to the project: https://github.com/team-armada/armada-infrastructure
 
-Some of my technical skills include:
+<!-- I enjoy learning new skills in my spare time through hands-on practice. Currently, I'm working on Verbo—an application designed to help users learn new languages by translating text into any of the 72 supported languages. In addition to translations, Verbo offers audio pronunciations and practical examples to demonstrate how words and phrases are used in real-life conversations. To follow my progress, visit the project page here https://sergiopichardo.com/projects/verbo, and you can also explore the code repo in here https://github.com/sergiopichardo/verbo. -->
 
+**Some of my technical skills include:**
 - Frontend: React, Next.js, Zustand, TailwindCSS, ShadCN, Radix-UI Primitives
-- Backend: Node.js/TypeScript, Python, Go, PostgreSQL, MongoDB
-- Infrastructure: AWS CDK, Terraform, ECS, IAM, S3, CloudFront, Lambda, AppSync, API Gateway, DynamoDB, RDS
+- Backend: Node.js/TypeScript, Python, Go, PostgreSQL, MongoDB.
+- Infrastructure: AWS CDK, Terraform, IAM, S3, CloudFront, Lambda, AppSync, API Gateway, DynamoDB, RDS
 - Tooling: Jira, Confluence, Git, GitHub, jest-cucumber, Cypress, Playwright, technical diagramming, Bash, Linux
+- Whether it's coding, problem-solving, or just geeking out over the latest tech trends, I'm always up for a good conversation.
 
-Whether it's coding, problem-solving, or geeking out over the latest tech trends, I'm always up for a great conversation.
+Let's connect, chat, or explore how we can collaborate!
 
 Let's connect, chat, or explore how we can collaborate!
 ### Personal Information
