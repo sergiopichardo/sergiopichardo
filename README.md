@@ -17,8 +17,6 @@ Previously, I had the pleasure of collaborating with an amazing remote team of 4
 - Whether it's coding, problem-solving, or just geeking out over the latest tech trends, I'm always up for a good conversation.
 
 Let's connect, chat, or explore how we can collaborate!
-
-Let's connect, chat, or explore how we can collaborate!
 ### Personal Information
 - 🌎 [Website](https://sergiopichardo.com/)
 - ✅ [Resume](https://sergiopichardo.com/resume-sergio-pichardo.pdf)
