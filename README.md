@@ -1,7 +1,7 @@
 
 ## Hi, I'm Sergio 👋. I'm a full-stack software engineer who's passionate about solving problems with code.
 
-Currently, I'm thrilled to be part of the team at Last Call Media, where I work on cloud-based solutions, leveraging tools like Terraform and Amazon ECS to build scalable and reliable infrastructure. 
+Currently, I'm thrilled to be part of the team at Last Call Media, where I work on Generative AI solutions TypeScript, Python, Lex, and Amazon Bedrock.
 
 Previoulsy, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involved backend development using AWS serverless technologies.
 
@@ -12,8 +12,8 @@ I also had the pleasure of collaborating with an amazing remote team of 4 develo
 **Some of my technical skills include:**
 - Frontend: React, Next.js, Zustand, TailwindCSS, ShadCN, Radix-UI Primitives
 - Backend: Node.js/TypeScript, Python, Go, PostgreSQL, MongoDB.
-- Infrastructure: AWS CDK, Terraform, IAM, S3, CloudFront, Lambda, AppSync, API Gateway, DynamoDB, RDS
-- Tooling: Jira, Confluence, Git, GitHub, jest-cucumber, Cypress, Playwright, technical diagramming, Bash, Linux
+- Infrastructure: AWS CDK, Terraform, IAM, S3, CloudFront, Lambda, AppSync, API Gateway, DynamoDB, RDS, Bedrock
+- Tooling: Jira, Confluence, Git, GitHub, jest-cucumber, Playwright, architecture diagrams, Bash, Linux
 - Whether it's coding, problem-solving, or just geeking out over the latest tech trends, I'm always up for a good conversation.
 
 Let's connect, chat, or explore how we can collaborate!
