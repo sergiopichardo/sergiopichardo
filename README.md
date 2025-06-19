@@ -1,7 +1,7 @@
 
 ## Hi, I'm Sergio 👋. I'm a full-stack software engineer who's passionate about solving problems with code.
 
-Currently, I'm thrilled to be part of the team at Last Call Media, where I work on Generative AI solutions TypeScript, Python, Lex, and Amazon Bedrock.
+I'm thrilled to be part of the team at Last Call Media, where I work on Generative AI solutions with TypeScript, Python, Lex, and Amazon Bedrock.
 
 Previoulsy, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involved backend development using AWS serverless technologies.
 
