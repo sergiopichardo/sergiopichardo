@@ -5,7 +5,7 @@ Currently working as a Software/Cloud Engineer at an awesome stealth‑mode star
 
 Previously, I was part of the team at Last Call Media, where I worked on Generative AI solutions using TypeScript, Python, Lex, and Amazon Bedrock.
 
-Previoulsy, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involved backend development using AWS serverless technologies.
+Before that, I worked on an innovative platform called Immigrant Buddies, which connects immigrants with volunteers (buddies) to help them adjust to life in the USA. My role at Immigrant Buddies primarily involved backend development using AWS serverless technologies.
 
 I also had the pleasure of collaborating with an amazing remote team of 4 developers on a cloud infrastructure-based, open-source application called Armada. Armada was created to solve the problem many computer science teachers face: configuration overload and dependency management. Armada, makes it easy to configure and deploy development environments to the cloud at scale using Docker and Amazon Web Services. You can read our case study here: https://team-armada.github.io/case-study.html, and here's my contribution to the project: https://github.com/team-armada/armada-infrastructure
 
